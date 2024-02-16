@@ -1,0 +1,10 @@
+# Ignore all files except Jupyter Notebooks
+.ipynb_checkpoints/
+Segmentation/.idea/
+Segmentation/.ipynb_checkpoints/
+Segmentation/pets/
+Segmentation/oxford-iiit-pets-segmentation-using-pytorch-segnet-and-depth-wise-separable-convs.ipynb
+Segmentation/types of convolutions.ipynb
+
+Basic/Titanic/
+
