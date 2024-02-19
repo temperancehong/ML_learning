@@ -7,6 +7,9 @@ There is also the directory named `Basic` where places the most popular and begi
 
 ## Learning Log and TODO
 
+### Kaggle
+- [x] Kaggle Playground S4E2 completed, acc: 0.90570 (19 Feb 2024)
+
 ### General Notes
 - [ ] Notes on Optimizers
 - [ ] Notes on different Loss
