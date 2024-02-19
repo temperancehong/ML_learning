@@ -12,6 +12,9 @@ There is also the directory named `Basic` where places the most popular and begi
 - [ ] Notes on different Loss
 - [ ] 
 
+### Basic
+- [x] Titanic Classification task notes (19 Feb 2024)
+
 ### Segmentation
 
 #### SegNet
